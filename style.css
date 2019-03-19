@@ -1,0 +1,24 @@
+body{
+background-image:url('vilagterkep.jpg');
+color: #00008B;
+width: 80%;
+margin: 20px auto;
+padding: 10;
+font-family:Sans-serif;
+font-size: 14pt;
+}
+#cim{
+	text-align: center;
+	font-size: 60pt;
+	font-weight: bolt;
+}
+div{
+	text-align:center;
+}
+#alcim{
+	font-size: 36pt;
+	text-align: center;
+}
+#bal{
+	text-align: left;
+}
